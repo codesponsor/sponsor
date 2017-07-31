@@ -70,7 +70,7 @@ The specifics of the ad placement are:
 
 ### Examples
 
-Here are a some examples of what developers may want to see:
+Here are a some examples of what developers want to see:
 
 <img src="https://github.com/codesponsor/sponsor/blob/master/assets/cs-example-ad-1.png?raw=true" style="width: 800px; 
 height: 80px;" width="800" height="80" />
