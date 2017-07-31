@@ -64,7 +64,7 @@ Code Sponsor has partnered with ReadTheDocs.io to extend the marketing reach. **
 
 We only display one high-quality ad per page, and only for products and services that we believe our users will love. We work the ad display and copy to fit with the general theme of our hosted documentation pages. The ad placement appears on the documentation navigation menu and doesn't impact the users usage of the documentation pages. It will be found on hosted documentation pages under the last navigation menu item and will not scroll off the top of the page as readers scroll down the page.
 
-![An example of a doc page with an advertisement]()
+![An example of a doc page with an advertisement](https://github.com/codesponsor/sponsor/blob/master/assets/rtd-example.png?raw=true)
 
 The specifics of the ad placement are:
 
@@ -81,6 +81,7 @@ The specifics of the ad placement are:
 
 Here are a couple examples of things that have worked well in the past. They fit into the site, and converted well for the companies:
 
-![]()
+<img src="https://github.com/codesponsor/sponsor/blob/master/assets/rtd-example-ad-1.png?raw=true" style="width: 347px; 
+height: 212px;" width="347" height="212" />
 
-![]()
+<img src="https://github.com/codesponsor/sponsor/blob/master/assets/rtd-example-ad-2.png?raw=true" style="width: 347px; height: 216px;" width="347" height="216" />
