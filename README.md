@@ -9,8 +9,8 @@
 * [Limitations](#limitations)
 * [Placement](#placement)
 * [Examples](#examples)
-* [Placement (ReadTheDocs.io)](#placement-readthedocsio)
-* [Examples (ReadTheDocs.io)](#examples-readthedocsio)
+* [Placement (Read the Docs)](#placement-readthedocsio)
+* [Examples (Read the Docs)](#examples-readthedocsio)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Typically, advertisers would use channels such as Google Adwords, Facebook, etc.
 * Gitlab
 * Bitbucket
 * NPMJS.com
-* ReadTheDocs.io [(over 26M+ monthly pageviews)](https://www.seethestats.com/site/readthedocs.org)
+* Read the Docs [(over 26M+ monthly pageviews)](https://www.seethestats.com/site/readthedocs.org)
 * More
 
 Code Sponsor provides a very simple platform which allows you to create your ad in one place, then have it display across all channels.
@@ -89,7 +89,7 @@ height: 80px;" width="800" height="80" />
 
 <img src="https://github.com/codesponsor/sponsor/blob/master/assets/cs-example-ad-2.png?raw=true" style="width: 800px; height: 80px;" width="800" height="80" />
 
-## Placement (ReadTheDocs.io)
+## Placement (Read the Docs)
 
 Code Sponsor has partnered with ReadTheDocs.io to extend the marketing reach. **ReadTheDocs alone has over 26 million page views each month.** Because ReadTheDocs is a developer documentation platform and not a code repository, they have found image-based advertisements to be more effective and acceptable to the developers.
 
@@ -110,7 +110,7 @@ The specifics of the ad placement are:
 * Supporting text can be linked in its entirety, or words can be linked selectively
 * The image will be linked to the same page as supporting text
 
-## Examples (ReadTheDocs.io)
+## Examples (Read the Docs)
 
 Here are a couple examples of things that have worked well in the past. They fit into the site, and converted well for the companies:
 
