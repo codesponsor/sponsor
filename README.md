@@ -1,5 +1,19 @@
 # Code Sponsor Advertising Prospectus
 
+### Contents
+
+* [Overview](#overview)
+* [Pricing](#pricing)
+* [Targeting Details](#targeting-details)
+* [Language Segmentation](#language-segmentation)
+* [Geographic Segmentation](#geographic-segmentation)
+* [Reported Statistics](#reported-statistics)
+* [Limitations](#limitations)
+* [Placement](#placement)
+* [Examples](#examples)
+* [Placement (ReadTheDocs.io)](#placement-readthedocsio)
+* [Examples (ReadTheDocs.io)](#examples-readthedocsio)
+
 ### Overview
 
 Software developers regularly visit websites such as github.com, npmjs.com and readthedocs.io on a daily basis to find and read documentation on open source software. According to the [Github Octoverse 2016 report](https://octoverse.github.com/), there are 5.8M+ developers with 19.4M+ active open source repositories on Github alone.
