@@ -9,8 +9,8 @@
 * [Limitations](#limitations)
 * [Placement](#placement)
 * [Examples](#examples)
-* [Placement (Read the Docs)](#placement-readthedocsio)
-* [Examples (Read the Docs)](#examples-readthedocsio)
+* [Placement (Read the Docs)](#placement-read-the-docs)
+* [Examples (Read the Docs)](#examples-read-the-docs)
 
 ## Overview
 
