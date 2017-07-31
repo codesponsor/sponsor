@@ -56,13 +56,34 @@ One of the major concerns software developers have with the current advertising 
 
 ### Placement
 
+We do our best to provide the highest quality, non-obtrusive ads that developers will want to click on. We will work with you to generate messaging that developers will appreciate and understand. The ad will be placed across a multitude of open source projects that developers look at every day.
+
+Here's an example of a doc page with an advertisiment:
+
+![An example of a github README with an advertisement](https://github.com/codesponsor/sponsor/blob/master/assets/cs-example.png?raw=true)
+
+The specifics of the ad placement are:
+
+* Ads must be text-based. They can contain a title and blurb.
+* Ads must be relevant to the developer community
+* The ad must be a maximum of 85 characters (title + blurb)
+
 ### Examples
+
+Here are a some examples of what developers may want to see:
+
+<img src="https://github.com/codesponsor/sponsor/blob/master/assets/cs-example-ad-1.png?raw=true" style="width: 800px; 
+height: 80px;" width="800" height="80" />
+
+<img src="https://github.com/codesponsor/sponsor/blob/master/assets/cs-example-ad-2.png?raw=true" style="width: 800px; height: 80px;" width="800" height="80" />
 
 ### Placement (ReadTheDocs.io)
 
 Code Sponsor has partnered with ReadTheDocs.io to extend the marketing reach. **ReadTheDocs alone has over 26 million page views each month.** Because ReadTheDocs is a developer documentation platform and not a code repository, they have found image-based advertisements to be more effective and acceptable to the developers.
 
 We only display one high-quality ad per page, and only for products and services that we believe our users will love. We work the ad display and copy to fit with the general theme of our hosted documentation pages. The ad placement appears on the documentation navigation menu and doesn't impact the users usage of the documentation pages. It will be found on hosted documentation pages under the last navigation menu item and will not scroll off the top of the page as readers scroll down the page.
+
+Here's an example of a doc page with an advertisiment:
 
 ![An example of a doc page with an advertisement](https://github.com/codesponsor/sponsor/blob/master/assets/rtd-example.png?raw=true)
 
