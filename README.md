@@ -10,7 +10,6 @@
 * [Placement](#placement)
 * [Examples](#examples)
 * [Placement (Read the Docs)](#placement-read-the-docs)
-* [Examples (Read the Docs)](#examples-read-the-docs)
 
 ## Overview
 
@@ -22,7 +21,6 @@ Typically, advertisers would use channels such as Google Adwords, Facebook, etc.
 * Gitlab
 * Bitbucket
 * NPMJS.com
-* Read the Docs [(over 26M+ monthly pageviews)](https://www.seethestats.com/site/readthedocs.org)
 * More
 
 Code Sponsor provides a very simple platform which allows you to create your ad in one place, then have it display across all channels.
@@ -88,33 +86,3 @@ Here are a some examples of what developers want to see:
 height: 80px;" width="800" height="80" />
 
 <img src="https://github.com/codesponsor/sponsor/blob/master/assets/cs-example-ad-2.png?raw=true" style="width: 800px; height: 80px;" width="800" height="80" />
-
-## Placement (Read the Docs)
-
-Code Sponsor has partnered with ReadTheDocs.io to extend the marketing reach. **ReadTheDocs alone has over 26 million page views each month.** Because ReadTheDocs is a developer documentation platform and not a code repository, they have found image-based advertisements to be more effective and acceptable to the developers.
-
-We only display one high-quality ad per page, and only for products and services that we believe our users will love. We work the ad display and copy to fit with the general theme of our hosted documentation pages. The ad placement appears on the documentation navigation menu and doesn't impact the users usage of the documentation pages. It will be found on hosted documentation pages under the last navigation menu item and will not scroll off the top of the page as readers scroll down the page.
-
-Here's an example of a doc page with an advertisiment:
-
-![An example of a doc page with an advertisement](https://github.com/codesponsor/sponsor/blob/master/assets/rtd-example.png?raw=true)
-
-The specifics of the ad placement are:
-
-* Ad images are displayed at 120x90px, however image resolution should be 240x180px. This resolution will be reduced to our display size of 120x90px, but the higher resolution allows for sharp display on high-DPI devices, such as Apple's Retina displays
-* Images should be in PNG format, not a lossy format such as JPG
-* The graphic should not have a border
-* The ad will include supporting text. Images should avoid unnecessary copy due to the small image resolution
-* Ads should favor supporting text over including copy in the ad image.
-* Supporting text should be 80 characters or less
-* Supporting text can be linked in its entirety, or words can be linked selectively
-* The image will be linked to the same page as supporting text
-
-## Examples (Read the Docs)
-
-Here are a couple examples of things that have worked well in the past. They fit into the site, and converted well for the companies:
-
-<img src="https://github.com/codesponsor/sponsor/blob/master/assets/rtd-example-ad-1.png?raw=true" style="width: 347px; 
-height: 212px;" width="347" height="212" />
-
-<img src="https://github.com/codesponsor/sponsor/blob/master/assets/rtd-example-ad-2.png?raw=true" style="width: 347px; height: 216px;" width="347" height="216" />
