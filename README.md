@@ -4,7 +4,6 @@
 * [Pricing](#pricing)
 * [Targeting Details](#targeting-details)
 * [Language Segmentation](#language-segmentation)
-* [Geographic Segmentation](#geographic-segmentation)
 * [Reported Statistics](#reported-statistics)
 * [Limitations](#limitations)
 * [Placement](#placement)
@@ -45,10 +44,6 @@ We do not provide third party tracking or remote scripting support.
 Every repository that holds your advertisement relates to a specific piece of software. This allows us to target each pageview to the programming language that the project is written in.
 
 This is useful when product being advertised targets/supports specific languages.
-
-## Geographic Segmentation
-
-We support geo-targeting across certain channels. This allows you to target your messages to specific countries of interest, or exclude a set of countries that aren't relevant to your ads.
 
 ## Reported Statistics
 
